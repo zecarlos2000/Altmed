@@ -1,0 +1,17 @@
+/*
+NHDESIGN 2014
+*/
+
+
+
+/* Custom CSS Code 
+=================================================*/
+
+/* this logo width & height , you can change it depend on your logo */
+.logo img {
+	width:230px;
+}
+
+#contain .element-4 { min-height:176px; }
+#contain .element-3 { min-height:240px; }
+#contain .element-2 { min-height:368px; }
