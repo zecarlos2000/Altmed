@@ -83,7 +83,8 @@ $('.gallery .item').hover(function(){
 $('[data]').colorTip({color:'yellow'});
 
 // UItoTop plugin 	
-$().UItoTop({ easingType: 'easeOutQuart' });
+if($().UItoTop != undefined)
+	$().UItoTop({ easingType: 'easeOutQuart' });
  
 // reponsive menu
 $("#menu > a").click(function () {

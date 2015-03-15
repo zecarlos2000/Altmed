@@ -1,0 +1,38 @@
+
+.clear{ clear: both;}
+
+.therapyBack {
+	font-size: 23px;
+	margin-top: 30px;
+	margin-bottom: 80px;
+}
+
+.therapyBack a:hover {
+	text-decoration: underline;	
+}
+
+.credits{
+	margin: 30px 0px 0px 0px;
+	font-size: 11px;
+	float: right;
+}
+
+.mainImage{
+	display: block;
+	margin-left: auto!important;
+	margin-right: auto!important;
+	margin: 35px;
+}
+
+.imagePair { 
+	max-height:340px;
+	margin: 35px 0 35px 0;
+}
+
+.about-project ul{
+	list-style: inherit; margin: 5px 0 5px 40px; line-height:23px;
+}
+
+.about-project li{
+	list-style: inherit
+}
