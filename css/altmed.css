@@ -36,3 +36,38 @@
 .about-project li{
 	list-style: inherit
 }
+
+.partnership{
+	line-height:260px;
+	text-align: center;
+}
+
+.partnership img {
+   margin: auto;
+   vertical-align: middle; 
+   display: inline-block;
+} 
+
+.staffHeader {
+	margin: 70px 0 40px 0;
+	display: table;
+}
+
+.staffHeader img{
+	max-height: 220px;
+}
+
+.staffHeader .name{
+
+	font-size: 30px;
+	font-weight: bold;
+	padding-left:60px;
+	
+	display: table-cell;
+	vertical-align: middle; 
+  
+}
+
+.curriculum p{
+	margin-bottom: 20px;
+}
